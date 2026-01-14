@@ -40,10 +40,10 @@ The website highlights my **skills, projects, and contact information** using a 
 
 portfolio-website
 │
-├── index.html # Main webpage
-├── style.css # Styling file
-└── assets/ # Images, icons, and other assets
+├── index.html 
+├── style.css 
+└── assets/ 
 
 ## 📸 Output
 
-A simple, elegant, and responsive **portfolio website** that demonstrates my frontend development skills 
+A simple, elegant, and responsive portfolio website that demonstrates my frontend development skills 
