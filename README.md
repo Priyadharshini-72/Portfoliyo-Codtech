@@ -38,7 +38,7 @@ The website highlights my **skills, projects, and contact information** using a 
 
 ## 📂 Project Structure
 
-portfolio-website/
+portfolio-website
 │
 ├── index.html # Main webpage
 ├── style.css # Styling file
